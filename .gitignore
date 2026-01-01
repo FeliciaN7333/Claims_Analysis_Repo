@@ -1,0 +1,10 @@
+# Ignore big/private-ish stuff (keep repo clean)
+data/raw/
+data/clean/
+
+# Power BI files can be too large for GitHub (100MB limit)
+*.pbix
+
+# System files
+.DS_Store
+Thumbs.db
