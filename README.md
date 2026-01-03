@@ -60,7 +60,7 @@ Dashboard pages:
 - Provider Performance: [04_provider_performance.png](visuals/power_bi_screenshots/04_provider_performance.png)
 - Member Utilization: [05_member_utilization_default.png](visuals/power_bi_screenshots/05_member_utilization_default.png)
 
-## Dashboard Insights (Top 2–3)
+## Dashboard Insights (Top 3)
 1) **Payment Integrity:** Overall leakage is low (0.20%), but **40 paid > allowed** claims totaling **$28.34K** which makes them high confidence audit targets worth review (recoverable dollars + configuration validation).  
 2) **Spend Concentration:** Spend is concentrated in **inpatient** services and the **65+** age segment. At the same time, **non-chronic members still account for 57% of total spend**, which means high cost is not limited to chronic members both **repeat utilization (chronic)** and **high cost episodes (non-chronic, often inpatient)** are key drivers (site of care + avoidable admissions focus).  
 3) **Provider Concentration:** Most providers cluster in mid volume/mid paid ranges, but a few outliers show **unusually high claim volume** or **unusually high avg paid per claim**. These outliers explain where spend concentrates and are the best targets for follow up review (pricing, coding, and network contracting).
